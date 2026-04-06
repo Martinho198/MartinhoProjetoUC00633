@@ -23,6 +23,10 @@ cd C:\caminho\para\MartinhoProjetoUC00633
 
 ### 4. Executar o sistema
 ```powershell
+.\Main.ps1
+
+ou
+
 .\INICIAR.bat
 ```
 
